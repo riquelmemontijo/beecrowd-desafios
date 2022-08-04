@@ -1,4 +1,4 @@
-package br.com.riquelme;
+package br.com.riquelme.matematica;
 import java.io.IOException;
 import java.util.Scanner;
 

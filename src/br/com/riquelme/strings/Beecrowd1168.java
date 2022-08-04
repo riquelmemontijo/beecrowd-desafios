@@ -1,4 +1,4 @@
-package br.com.riquelme;
+package br.com.riquelme.strings;
 
 import java.util.HashMap;
 import java.util.Map;
